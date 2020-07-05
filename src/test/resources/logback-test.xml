@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration>
+    <include resource="logback-console.xml" />
+
+    <logger name="jbpark.wordcount" level="TRACE" />
+
+    <root level="WARN">
+        <appender-ref ref="CONSOLE" />
+    </root>
+</configuration>
+
