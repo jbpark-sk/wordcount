@@ -20,7 +20,7 @@
 
         <scalatest.version>3.2.0</scalatest.version>
         <scala.logging.version>3.9.2</scala.logging.version>
-        <logback.version>1.2.3</logback.version>
+        <logback.version>1.3.12</logback.version>
 
         <maven.compiler.plugin.version>3.8.1</maven.compiler.plugin.version>
         <sbt.compiler.maven.plugin.version>1.0.0</sbt.compiler.maven.plugin.version>
